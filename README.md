@@ -20,4 +20,4 @@
 
 ### Technical Analysis by a Convolutional Neural Network
 
-### A Random Vase Generator For your 3D Printer
+### A Random Vase Generator for your 3D Printer
