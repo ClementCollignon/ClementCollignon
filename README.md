@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋, I'm Clement
 
-<!--
-**ClementCollignon/ClementCollignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working at MIT as a Postdoc in the group of [Pablo Jarillo-Herrero](http://jarilloherrero.mit.edu/)
+- I created an automated wafer imaging software ([Flinder](https://github.com/ClementCollignon/Flinder)) that find and characterize 2D materials
 
-Here are some ideas to get you started:
+## If you want to learn more about my research
+  - [My Google Scholar](https://scholar.google.com/citations?user=rIwabBwAAAAJ&hl=en&oi=ao)
+  - [My LinkedIn](https://www.linkedin.com/in/clement-collignon/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and languages I use:
+ - Python, Numpy, SciPy, Matplotlib, Pandas
+ - Pytorch, TensorFlow, OpenCV
+ - PyQT, Tkinter
+ - VSCode, Spyder, Jupyter
+ - Latex
+
+## See below four of my project:
+
+### Flinder and Flinder2
+
+### Technical Analysis by a Convolutional Neural Network
+
+### A Random Vase Generator For your 3D Printer
