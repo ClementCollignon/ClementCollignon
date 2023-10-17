@@ -16,8 +16,21 @@
 
 ## See below four of my project:
 
-### Flinder and Flinder2
+### [Flinder](https://github.com/ClementCollignon/Flinder) and [Flinder2](https://github.com/ClementCollignon/Flinder2)
 
-### Technical Analysis by a Convolutional Neural Network
+<p align = "center">
+<img src="workflow2.PNG" width=900>
+</p>
 
-### A Random Vase Generator for your 3D Printer
+### [Technical Analysis by a Convolutional Neural Network](https://github.com/ClementCollignon/MarketNeutral_CNN)
+
+<p align = "center">
+<img src="CNN_TA.PNG" width=900>
+</p>
+
+### [A Random Vase Generator for your 3D Printer](https://github.com/ClementCollignon/Erratic-Vases)
+
+<p align = "center">
+<img src="vases.jpg" width=900>
+</p>
+
