@@ -10,7 +10,7 @@
 ## Tools and languages I use:
  - Python, Numpy, SciPy, Matplotlib, Pandas
  - Pytorch, TensorFlow, OpenCV
- - PyQT, Tkinter
+ - PyQt, Tkinter
  - VSCode, Spyder, Jupyter
  - Latex
 
