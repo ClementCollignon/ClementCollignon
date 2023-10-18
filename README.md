@@ -22,7 +22,7 @@
 <img src="workflow2.PNG" width=800>
 </p>
 
-### [Technical Analysis by a Convolutional Neural Network](https://github.com/ClementCollignon/MarketNeutral_CNN)
+### [Technical Analysis by a Convolutional Neural Network?](https://github.com/ClementCollignon/MarketNeutral_CNN)
 
 <p align = "center">
 <img src="CNN_TA.PNG" width=1000>
